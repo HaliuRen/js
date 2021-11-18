@@ -1,0 +1,24 @@
+{ 
+    "empleados" : [
+        {
+            "id" : 1,
+            "nombre" : "Tae",
+            "puesto" : "Vocal Line"
+        },
+        {
+            "id" : 2,
+            "nombre" : "Nam",
+            "puesto" : "Rap Line"
+        },
+        {
+            "id" : 3,
+            "nombre" : "Jimin",
+            "puesto" : "Dance Line"
+        },
+        {
+            "id" : 4,
+            "nombre" : "Jin",
+            "puesto" : "Visual Line"
+        }
+    ]
+}

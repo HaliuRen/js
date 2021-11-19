@@ -20,3 +20,4 @@ if (Notification.permission == 'granted') {
         body: 'Tienes un mensaje'
     })
 }
+
